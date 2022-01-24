@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+      /* global css */
+.container{
+    width: 100%;
+    margin: auto;
+}
+.global-h-l{
+
+}
+.global-h-m{
+
+}
+.global-p{
+
+}
+.underline{
+
+}
+.btn{
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+    
+}
+        /* header part */
+
+.logo-part{
+    width: 50%;
+    float: left;
+}
+.main-menu ul li{
+    display: inline-block;
+    margin: 20px;
+    text-align: right;
+    
+   
+}
+.main-menu ul li:hover{
+background-color: cadetblue;
+transition: ease-in 0.3s;
+padding: 4px;
+}
+
+#main-header{
+    background-color: #87509C;
+    padding: 20px;
+}
+
+.menu-part{
+    text-align: right;
+}
+
+.main-menu ul li a{
+    text-decoration: none;
+    color: #fff;
+    float: left;
+    width: 50%;   
+}
+
+.header-contant{
+    text-align: center;
+    padding: 50px;
+    text-transform: capitalize;
+    color: #fff;
+
+}
+button{
+    width: 20%;
+    padding: 15px;
+    cursor: pointer;
+    background-color: #EB7D4B;
+}
+button:hover{
+    background-color: #87509C;
+    transition: ease-in-out 0.3s;
+}
+
+      /* service-section */
+#service{
+    background-color: #17C2A4;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+.service-main{
+    text-align: center;
+    padding: 20px;
+}
+
+.service-box-detiels1{
+    width: 23%;
+    float: left;
+}
+.service-box-detiels2{
+    width: 23%;
+    float: left;
+}
+.service-box-detiels3{
+    width: 23%;
+    float: left;
+}
+
+
+/* team section */
+
+#TEAM{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.team-main{
+    margin-top: 30px;
+}
+
+h3{
+    color: rgb(53, 139, 139);
+}
+.team-box{
+    margin-top: 30px;
+}
+.team-box-detiels1{
+    width: 23%;
+    float: left;
+    
+}
+.team-box-detiels1 a{
+    font-size: 38px;
+    color: rgb(47, 92, 92);
+    border-radius: 20px;
+    padding: 5px;
+}
+.team-box-detiels1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
